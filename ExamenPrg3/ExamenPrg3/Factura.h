@@ -10,6 +10,7 @@ using namespace std;
 
 
 class Factura {
+	Factura();
 
 public: 
 	Factura(string);

@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Factura.cpp" />
     <ClCompile Include="Fecha.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Producto.cpp" />
   </ItemGroup>
   <ItemGroup>
