@@ -13,7 +13,7 @@ int main() {
 	lista->buscar("Martin")->agregarProducto(2, "Leche", 50);
 	lista->buscar("Martin")->agregarProducto(2, "Manzana", 10);
 
-	lista->Facturar(Fecha(23, 2, 2018), "Zepeda");
+	lista->Facturar(Fecha(23, 2, 2018), "Marin");
 	lista->Facturar(Fecha(23, 2, 2018), "Bryan");
 	lista->buscar("Nelson")->agregarP(2, "Sandia", 50);
 	lista->buscar("Nelson")->agregarP(2, "Pollo", 100);
