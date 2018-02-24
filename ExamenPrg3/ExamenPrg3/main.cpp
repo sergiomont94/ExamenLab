@@ -14,7 +14,7 @@ int main() {
 	lista->buscar("Dillion")->agregarProducto(2, "Manzana", 10);
 
 	lista->Facturar(Fecha(23, 2, 2018), "Marin");
-	lista->Facturar(Fecha(23, 2, 2018), "Bryan");
+	lista->Facturar(Fecha(23, 2, 2018), "Sparks");
 	lista->buscar("Brenna")->agregarP(2, "Sandia", 50);
 	lista->buscar("Brenna")->agregarP(2, "Pollo", 100);
 	lista->buscar("Brenna")->agregarP(2, "Melon", 60);
