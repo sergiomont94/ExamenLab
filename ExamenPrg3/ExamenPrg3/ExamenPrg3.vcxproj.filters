@@ -15,8 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Producto.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fecha.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Factura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Producto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fecha.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Factura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
