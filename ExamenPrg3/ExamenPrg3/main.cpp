@@ -22,7 +22,7 @@ int main() {
 	
 	lista->buscar("Martin")->imprimirTotal();
 
-	cout << "Total de facturas: " << lista->cantidadFacturas() << std::endl;
+	cout << "Total de las facturas: " << lista->Facturar() << std::endl;
 	cout << "Total por todo: " << lista->total() << std::endl;
 
 
